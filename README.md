@@ -1,4 +1,5 @@
-engrequisitos
+Descrição Geral do Sistema
 =============
 
-Engenharia de requisitos
+É proposto que nesta página fique uma descrição superficial do projeto.
+O sistema proposto gerencia um estabelecimento de venda de alimentos. Pedidos podem ser feitos via balcão, mesa ou delivery. Clientes com cadastro podem realizar pedidos via atendentes em posse de smartphones ou tablets. O pedido realizado é enviado para a cozinha, onde os funcionários responsáveis podem então iniciar o preparo dos pratos requisitados, que podem inclusive ser personalizados de acordo com o gosto do cliente. Ao fim da cosumação (ou pedido, em caso do balcão ou delivery), clientes podem ter seus totais exibidos instantaneamente pela aplicação, já com as devidas taxas cobradas pelo estabelecimento. Vales-presente também podem ser ofertados a clientes, que podem fazer sua retirada em futuras visitas ao local. Relatórios referentes às funcionalidades propostas podem ser exibidos aos administradores do sistema, mostrando facilmente dados de consumação e faturamento por período.
